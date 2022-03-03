@@ -8,7 +8,7 @@ examen = float (input("examen nota: "))
 proyectofinal = (input("proyecto: "))
 
 
-notafinal = alumnonotaT1 + alumnonotaT2 + alumnonotaT3 /3 *0.50
+notafinal = (alumnonotaT1 + alumnonotaT2 + alumnonotaT3)/3 *.50
 examenalumno = examen * 0.30
 proyecto = proyectofinal*0.20
 
